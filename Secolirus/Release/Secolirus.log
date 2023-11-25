@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\MrSuperBuddy\Desktop\Secolirus\main.cpp(755,11): warning C4244: =: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\MrSuperBuddy\Desktop\Secolirus\main.cpp(1561,8): warning C4101: Response: неиспользованная локальная переменная
+C:\Users\MrSuperBuddy\Desktop\Secolirus\main.cpp(1559,18): warning C4101: OldValue: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 36 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Secolirus.vcxproj -> C:\Users\MrSuperBuddy\Desktop\Release\Secolirus.exe
